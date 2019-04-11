@@ -1,4 +1,8 @@
-# List of Publications
+---
+layout: page
+title: List of Publications
+permalink: /publications/
+---
 
 ## In Peer-Reviewed Conferences
 
