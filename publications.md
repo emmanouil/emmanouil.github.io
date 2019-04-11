@@ -4,8 +4,9 @@ title: List of Publications
 permalink: /publications/
 ---
 
+---
 ## In Peer-Reviewed Conferences
-
+---
 **Emmanouil Potetsianakis** and Jean Le Feuvre, “SWAPUGC: Software for Adaptive Playback of Geotagged UGC“, _MMSys’18: 9th ACM Multimedia Systems Conference_, June 12–15, 2018, Amsterdam, Netherlands.
 
 **E. Potetsianakis** and J. Le Feuvre, “Buffer Management for Synchronous and Low-Latency Playback of Multi-Stream User-Generated Content”, _MIPR '18: IEEE International Conference on Multimedia Information Processing and Retrieval_, Miami, FL, USA, April 2018.
@@ -27,8 +28,9 @@ Cyril Concolato and **Emmanouil Potetsianakis** “In-Browser XML Document Strea
 Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “Fast and Energy-Efficient Topology Construction in Multi-Hop Multi-Channel 802.15.4 Networks,” _Wireless and Mobile Computing, Networking and Communications (WiMob)_, 2013 IEEE 9th International Conference on, vol., no., pp.382,387, 7-9 Oct. 2013.
 
 
+---
 ## Other
-
+---
 Jean Le Feuvre, V.T. Trung Niguyen, **E. Potetsianakis** “Hybrid Broadcast-Broadband” MPEG Standardization Meeting (MPEG 110 – Strasbourg), 20-24 Oct. 2014. [Hybrid Timeshift Poster][Hybrid Multiview Poster]
 
 **Emmanouil Potetsianakis** “Fast and Energy-Efficient Topology Construction in Multi-Hop Multi-Channel 802.15.4 Networks”, Grenoble INP, 11 June 2013. [Master Thesis]
