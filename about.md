@@ -14,7 +14,7 @@ Previously (2013-2019), I was an R&D Engineer at the Multimedia Team of [Telecom
 
 I have also previously worked on projects focused on: Distributed Systems, Brain-Computer Interfaces, Sensor Networks.
 
-For a more “formal” insight to my work, you can find a somewhat complete list of my publications [here](emmanouil.github.io/publications), at [researchgate](https://www.researchgate.net/profile/Emmanouil_Potetsianakis/publications), or at [google scholar](https://scholar.google.co.uk/citations?user=MfmqI4EAAAAJ).
+For a more “formal” insight to my work, you can find a somewhat complete list of my publications [here](https://emmanouil.github.io/publications), at [researchgate](https://www.researchgate.net/profile/Emmanouil_Potetsianakis/publications), or at [google scholar](https://scholar.google.co.uk/citations?user=MfmqI4EAAAAJ).
 
 ### Contact me
 
