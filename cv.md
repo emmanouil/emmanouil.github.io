@@ -5,11 +5,11 @@ permalink: /cv/
 ---
 
 ### Research   
-   <span style="font-family:Verdana; font-size:small;"> August 2019 - present </span> Networks Unit, *TNO* (The Hague, NL) **Scientist Innovator** @ Media Lab   
-   <span style="font-family:Verdana; font-size:small;"> November 2013 – April 2019 </span>  _IDS dpt_, *Telecom Paris* Engineering School (Paris, FR) **R&D Engineer** @ Multimedia Team   
-   <span style="font-family:Verdana; font-size:small;"> January 2013 – July 2013 </span> _LIG Lab_, *Grenoble Institute of Technology* (Grenoble, FR) **Research Intern** @ Drakkar Team   
-   <span style="font-family:Verdana; font-size:small;"> March 2012 – June 2012 </span> _DIRO dpt_, *University of Montreal*  (Montreal, CA) **Research Exchange Student** @ HERON Lab   
-   <span style="font-family:Verdana; font-size:small;"> March 2011 – August 2011 </span> TERA Labs, *Karel de Grote College* (Antwerp, BE) **R&D Intern**   
+   <span style="font-family:Verdana; font-size:small;"> Aug. 2019 - present </span> *TNO* (The Hague, NL) **Scientist Innovator** @ Media Lab, Networks Unit   
+   <span style="font-family:Verdana; font-size:small;"> Nov. 2013 – April 2019 </span>  *Telecom Paris* Engineering School (Paris, FR) **R&D Engineer** @ Multimedia Team, IDS Dpt.   
+   <span style="font-family:Verdana; font-size:small;"> Jan. 2013 – July 2013 </span> *Grenoble Institute of Technology* (Grenoble, FR) **Research Intern** @ Drakkar Team, LIG Lab   
+   <span style="font-family:Verdana; font-size:small;"> March 2012 – June 2012 </span> *University of Montreal*  (Montreal, CA) **Research Exchange Student** @ HERON Lab, DIRO Dpt.   
+   <span style="font-family:Verdana; font-size:small;"> March 2011 – Aug. 2011 </span> *Karel de Grote College* (Antwerp, BE) **R&D Intern** @ TERA Labs   
 
 
 ### Teaching   
