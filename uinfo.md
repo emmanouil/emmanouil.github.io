@@ -10,7 +10,7 @@ I also have a semi-active [tumblr account](http://le-cloporte.tumblr.com/) (cont
    
 I believe that research should be accessible to everyone – regardless of status / affiliation / location; thus, even though I do not use them, I like the idea of projects like [sci-hub](https://sci-hub.tw/) and [booksc](https://booksc.org/).   
 
-Out of respect of your privacy this site does not use google analytics, or any other traffic-monitoring service.
+Out of respect of your privacy this site does not use google analytics, or any other traffic-monitoring service. I am currently trialing the use of GoatCounter.
 
 ------
 
