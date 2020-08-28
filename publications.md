@@ -7,6 +7,10 @@ permalink: /publications/
 ---
 ## In Peer-Reviewed Conferences and Journals
 ---
+Jan Willem Kleinrouweler, **Emmanouil Potetsianakis**, and Lucia D'Acunto. 2020. "Prosuming Live Multimedia Content at the Edge". In _ACM International Conference on Interactive Media Experiences (IMX '20)_. Association for Computing Machinery, New York, NY, USA, 160–164. DOI:https://doi.org/10.1145/3391614.3399393
+
+**Emmanouil Potetsianakis**, Emmanuel Thomas, Karim El Assal, and Oskar van Deventer. 2020. "Fixed viewport applications for omnidirectional video content: combining traditional and 360 video for immersive experiences". In _Proceedings of the 11th ACM Multimedia Systems Conference (MMSys '20)_. Association for Computing Machinery, New York, NY, USA, 369–372. DOI:https://doi.org/10.1145/3339825.3393586
+
 **Emmanouil Potetsianakis** and Jean Le Feuvre, “SWAPUGC: Software for Adaptive Playback of Geotagged UGC“, _MMSys’18: 9th ACM Multimedia Systems Conference_, June 12–15, 2018, Amsterdam, Netherlands.
 
 **Emmanouil Potetsianakis** and Jean Le Feuvre, “Buffer Management for Synchronous and Low-Latency Playback of Multi-Stream User-Generated Content”, _MIPR '18: IEEE International Conference on Multimedia Information Processing and Retrieval_, Miami, FL, USA, April 2018.
