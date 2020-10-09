@@ -7,6 +7,8 @@ permalink: /publications/
 ---
 ## In Peer-Reviewed Conferences and Journals
 ---
+E. Thomas, **E. Potetsianakis**, T. Stockhammer, I. Bouazizi, M-L. Champel. 2020. "MPEG Media Enablers For RICHER XR Experiences". In _IBC 2020_, Sptember 8, 2020, Amsterdam, Netherlands. https://www.ibc.org/download?ac=13967
+
 Jan Willem Kleinrouweler, **Emmanouil Potetsianakis**, and Lucia D'Acunto. 2020. "Prosuming Live Multimedia Content at the Edge". In _ACM International Conference on Interactive Media Experiences (IMX '20)_. Association for Computing Machinery, New York, NY, USA, 160–164. DOI:https://doi.org/10.1145/3391614.3399393
 
 **Emmanouil Potetsianakis**, Emmanuel Thomas, Karim El Assal, and Oskar van Deventer. 2020. "Fixed viewport applications for omnidirectional video content: combining traditional and 360 video for immersive experiences". In _Proceedings of the 11th ACM Multimedia Systems Conference (MMSys '20)_. Association for Computing Machinery, New York, NY, USA, 369–372. DOI:https://doi.org/10.1145/3339825.3393586
@@ -31,6 +33,42 @@ Cyril Concolato and **Emmanouil Potetsianakis** “In-Browser XML Document Strea
 
 Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “Fast and Energy-Efficient Topology Construction in Multi-Hop Multi-Channel 802.15.4 Networks,” _Wireless and Mobile Computing, Networking and Communications (WiMob)_, 2013 IEEE 9th International Conference on, vol., no., pp.382,387, 7-9 Oct. 2013.
 
+---
+## Contributions to Standardization 
+---
+
+
+| Number |	Meeting 	| 	Group | SubGroup |	Title |	Author(s) 	|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|m51285	| 128 - Geneva	|	MPEG-DASH | Systems	| [DASH] Non-linear playback (TuC)	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO) |
+|m51298	| 128 - Geneva	| MPEG-I | Systems	| [OMAF] Viewpoint switch for non-linear playback	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m51635	| 129 - Brussels	|MPEG-I| Systems	| [OMAF] DASH signalling for OMAF Viewpoint switch	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m51636	|129 - Brussels	|	MPEG-DASH|Systems	|[TuC] DASH interactive streaming	|Emmanouil Potetsianakis, Emmanuel Thomas (TNO)	|
+|m51637	|129 - Brussels	|MPEG-I|Systems	|[OMAF] On Viewpoint Switch Looping	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m53519	|130 - Alpbach	|MPEG-DASH|Systems	|[Part 1] Event message definition and implementation guidelines for storyline graph	|Emmanouil Potetsianakis, Emmanuel Thomas (TNO)	|
+|m53526	|130 - Alpbach|MPEG-I|Systems	|[VDI] Description of proposed architecture for the reference library of input formatting operations	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m53528	|130 - Alpbach	|MPEG-I|Systems	|[OMAF] On Viewpoint Switch	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m53530	|130 - Alpbach	|MPEG-I|Systems	|[VDI] Software implementation of current input formatting operations	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m53531	|130 - Alpbach	|MPEG-I|Systems	|[OMAF] Toolset brand for interactive storyline	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m53532	|130 - Alpbach	|MPEG-4|Systems	|[Conformance] Updates on possible use of Kaitai binary format definition for File Format specification	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m53535	|130 - Alpbach	|MPEG-I|Requirements	|[MPEG-I Architecture] On Multi-access Edge Computing and CDN delivery for MPEG-I assets	|Emmanuel Thomas, Emmanouil Potetsianakis, Bastiaan Wissingh (TNO)	|
+|m53536	|130 - Alpbach	|MPEG-I|Requirements|	Updates on Immersive Media Access and Delivery	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
+|m53578	|130 - Alpbach	|MPEG-I|Systems	|[SD] On augmented reality and mixed reality for MPEG-I SD	|Emmanouil Potetsianakis, Emmanuel Thomas (TNO)	|
+|m53628	|130 - Alpbach	|MPEG-I|Systems	|[PCC Systems] On streaming with DASH V-PCC for viewpoint-based playback	|Emmanouil Potetsianakis, Emmanuel Thomas (TNO)|	
+|m54282	|131 - OnLine	|MPEG-4|Systems	|On VVC subpictures 14496-15	|Emmanuel Thomas, Emmanouil Potetsianakis	|
+|m54283	|131 - OnLine	|MPEG-4|Systems	|On carriage of VVC independent layers 14496-15|	Emmanuel Thomas, Emmanouil Potetsianakis	|
+|m54284	|131 - OnLine	|MPEG-I|Systems	|[VDI] Updates on libbeam in libvdi software	|Emmanuel Thomas, Emmanouil Potetsianakis|
+|m54285	|131 - OnLine	|MPEG-I|Systems	|[VDI] Editorial improvement on VDI W	| Emmanuel Thomas, Emmanouil Potetsianakis	|
+|m54286	|131 - OnLine	|MPEG-I|Systems	|[VDI] VVC binding of VDI video objects	|Emmanuel Thomas, Emmanouil Potetsianakis	|
+|m54287	|131 - OnLine	|MPEG-I|Systems	|[SD] On scene description update model	|Emmanuel Thomas, Emmanouil Potetsianakis	|
+|m54434	|131 - OnLine	|	MPEG-DASH|Systems	|[Part 1] Consolidated solution for non-linear playback	|Emmanouil Potetsianakis, Emmanuel Thomas (TNO)	|
+|m54435	|131 - OnLine	|MPEG-I|Systems	|[PCC Systems][CE] On viewing cone for multiple PC streams	|Emmanouil Potetsianakis, Emmanuel Thomas (TNO)	|
+|m54940	|132 - OnLine	|MPEG-I|Systems	|[PCC Systems][CE] Streaming multi-view partial PC streams	|Emmanouil Potetsianakis, Emmanuel Thomas|
+|m55130	|132 - OnLine	|MPEG-DASH|WG 03 MPEG Systems	|(26.2) [AMD2] Editorial improvements on 23009-1 WD AMD 2 Annex A	|Emmanouil Potetsianakis, Emmanuel Thomas	|
+|m55132	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(39.1) [SD] Web friendly spatial audio integration	|Emmanouil Potetsianakis, Emmanuel Thomas	|
+|m55147	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI][MPEG-4 part 1] Updated architecture MPEG-4 Systems for MPEG-I use cases	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m55149	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] On elementary streams constraints	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
+|m55150	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] "Update on libvdi"	Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
 
 ---
 ## Other 
