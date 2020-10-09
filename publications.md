@@ -68,7 +68,7 @@ Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “F
 |m55132	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(39.1) [SD] Web friendly spatial audio integration	|Emmanouil Potetsianakis, Emmanuel Thomas	|
 |m55147	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI][MPEG-4 part 1] Updated architecture MPEG-4 Systems for MPEG-I use cases	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
 |m55149	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] On elementary streams constraints	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
-|m55150	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] "Update on libvdi"	Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
+|m55150	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] "Update on libvdi"	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
 
 ---
 ## Other 
