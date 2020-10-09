@@ -38,10 +38,8 @@ Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “F
 ## Contributions to Standardization  (MPEG)
 ---
 
-<span style="font-size:small;">
-  
 | **Number** |	**Meeting** 	| 	**Group** | **SubGroup** |	**Title** |	**Author(s)** 	|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:--- |:---:|:---:|:---:|:---|:---|
 |m51285	| 128 - Geneva	|	MPEG-DASH | Systems	| [DASH] Non-linear playback (TuC)	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO) |
 |m51298	| 128 - Geneva	| MPEG-I | Systems	| [OMAF] Viewpoint switch for non-linear playback	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
 |m51635	| 129 - Brussels	|MPEG-I| Systems	| [OMAF] DASH signalling for OMAF Viewpoint switch	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
@@ -71,8 +69,7 @@ Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “F
 |m55147	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI][MPEG-4 part 1] Updated architecture MPEG-4 Systems for MPEG-I use cases	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
 |m55149	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] On elementary streams constraints	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
 |m55150	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] "Update on libvdi"	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
-  
-</span>
+
 
 ---
 ## Other 
