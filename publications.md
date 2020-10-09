@@ -33,12 +33,13 @@ Cyril Concolato and **Emmanouil Potetsianakis** “In-Browser XML Document Strea
 
 Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “Fast and Energy-Efficient Topology Construction in Multi-Hop Multi-Channel 802.15.4 Networks,” _Wireless and Mobile Computing, Networking and Communications (WiMob)_, 2013 IEEE 9th International Conference on, vol., no., pp.382,387, 7-9 Oct. 2013.
 
+
 ---
-## Contributions to Standardization 
+## Contributions to Standardization  (MPEG)
 ---
 
-
-| Number |	Meeting 	| 	Group | SubGroup |	Title |	Author(s) 	|
+<p style="font-size:small;">
+| **Number** |	**Meeting** 	| 	**Group** | **SubGroup** |	**Title** |	**Author(s)** 	|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |m51285	| 128 - Geneva	|	MPEG-DASH | Systems	| [DASH] Non-linear playback (TuC)	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO) |
 |m51298	| 128 - Geneva	| MPEG-I | Systems	| [OMAF] Viewpoint switch for non-linear playback	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
@@ -69,6 +70,7 @@ Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “F
 |m55147	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI][MPEG-4 part 1] Updated architecture MPEG-4 Systems for MPEG-I use cases	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
 |m55149	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] On elementary streams constraints	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
 |m55150	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] "Update on libvdi"	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
+</p>
 
 ---
 ## Other 
