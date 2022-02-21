@@ -81,7 +81,7 @@ Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “F
 |m56007	|133 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[41] [SD] On spatial audio for the web	| Emmanouil Potetsianakis, Emmanuel Thomas (TNO)|
 |m56016	|133 - OnLine	|MPEG-4|WG 03 MPEG Systems	|(8.1)[FF] On VVC multi-layer and decoding APIs	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
 |m56783	|134 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[40.1][VDI]On MSE and other VDI-relevant W3C Specifications	|Emmanouil Potetsianakis (TNO), Emmanuel Thomas (TNO)|
-|m56830 |134 - OnLine |MPEG-I|WG 03 MPEG Systems	 |[40.1][VDI] Video object binding for VVC	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
+|m56830 |134 - OnLine |MPEG-I|WG 03 MPEG Systems	|[40.1][VDI] Video object binding for VVC	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
 |m56894	|134 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[40.1][VDI] Editorial improvements	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
 |m56907	|134 - OnLine	|MPEG-DASH|WG 03 MPEG Systems	|NL comments on CDAM2	|Emmanouil Potetsianakis	(TNO)|
 |m56956	|134 - OnLine	|MPEG-DASH|WG 03 MPEG Systems	|[Part 1/AMD2] Comments on CDAM2 (non-linear storyline)	|Emmanouil Potetsianakis (TNO), Emmanuel Thomas (TNO)|	
