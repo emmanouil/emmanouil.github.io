@@ -7,7 +7,13 @@ permalink: /publications/
 ---
 ## In Peer-Reviewed Conferences and Journals
 ---
-E. Thomas, **E. Potetsianakis**, T. Stockhammer, I. Bouazizi, M-L. Champel. 2020. "MPEG Media Enablers For RICHER XR Experiences". In _IBC 2020_, Sptember 8, 2020, Amsterdam, Netherlands. https://www.ibc.org/download?ac=13967
+Simon NB Gunkel, **Emmanouil Potetsianakis**, Tessa E Klunder, Alexander Toet, Sylvie S Dijkstra-Soudarissanane. 2021. "Immersive Experiences and XR: A Game Engine or Multimedia Streaming Problem?". In _IBC 2021_, September 9-12, 2021, Amsterdam, Netherlands. https://arxiv.org/abs/2201.05552   
+
+Donald Degraen, Bruno Fruchard, Frederik Smolders, **Emmanouil Potetsianakis**, Seref Güngör, Antonio Krüger, and Jürgen Steimle. 2021. "Weirding Haptics: In-Situ Prototyping of Vibrotactile Feedback in Virtual Reality through Vocalization". _The 34th Annual ACM Symposium on User Interface Software and Technology_ (UIST). Association for Computing Machinery, New York, NY, USA, 936–953. DOI:https://doi.org/10.1145/3472749.3474797
+
+Alexandre Gabriel, Yonatan Shiferaw, and **Emmanouil Potetsianakis**. 2021. "Leveraging VVC partitioning for low-latency video decoder output". In _Proceedings of the 12th ACM Multimedia Systems Conference_. Association for Computing Machinery, New York, NY, USA, 369–372. DOI:https://doi.org/10.1145/3458305.3478441  
+
+E. Thomas, **E. Potetsianakis**, T. Stockhammer, I. Bouazizi, M-L. Champel. 2020. "MPEG Media Enablers For RICHER XR Experiences". In _IBC 2020_, September 8, 2020, Amsterdam, Netherlands. https://www.ibc.org/download?ac=13967
 
 Jan Willem Kleinrouweler, **Emmanouil Potetsianakis**, and Lucia D'Acunto. 2020. "Prosuming Live Multimedia Content at the Edge". In _ACM International Conference on Interactive Media Experiences (IMX '20)_. Association for Computing Machinery, New York, NY, USA, 160–164. DOI:https://doi.org/10.1145/3391614.3399393
 
@@ -69,6 +75,29 @@ Romaniello, G.; **Potetsianakis, E.**; Alphand, O.; Guizzetti, R.; Duda, A, “F
 |m55147	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI][MPEG-4 part 1] Updated architecture MPEG-4 Systems for MPEG-I use cases	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
 |m55149	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] On elementary streams constraints	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)	|
 |m55150	|132 - OnLine	|MPEG-I|WG 03 MPEG Systems	|(38) [VDI] "Update on libvdi"	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
+|m55924	|133 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[39.1][PCC-Sys] On region-base partial access using viewport information	|Ryohei Takahashi, Mitsuhiro Hirabayashi (Sony), Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|   
+|m56003 |133 - OnLine	|MPEG-I|WG 02 MPEG Technical requirements|MPEG-I Beyond The VR HMD | Emmanouil Potetsianakis, Emmanuel Thomas	(TNO)|
+|m56005	|133 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[39.1][PCC Systems][CE] Support for multi-view partial PC streams	| Emmanouil Potetsianakis, Emmanuel Thomas (TNO)|    	
+|m56007	|133 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[41] [SD] On spatial audio for the web	| Emmanouil Potetsianakis, Emmanuel Thomas (TNO)|
+|m56016	|133 - OnLine	|MPEG-4|WG 03 MPEG Systems	|(8.1)[FF] On VVC multi-layer and decoding APIs	| Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
+|m56783	|134 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[40.1][VDI]On MSE and other VDI-relevant W3C Specifications	|Emmanouil Potetsianakis (TNO), Emmanuel Thomas (TNO)| |m56830 |134 - OnLine |MPEG-I|WG 03 MPEG Systems	 |[40.1][VDI] Video object binding for VVC	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
+|m56894	|134 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[40.1][VDI] Editorial improvements	|Emmanuel Thomas, Emmanouil Potetsianakis (TNO)|
+|m56907	|134 - OnLine	|MPEG-DASH|WG 03 MPEG Systems	|NL comments on CDAM2	|Emmanouil Potetsianakis	(TNO)|
+|m56956	|134 - OnLine	|MPEG-DASH|WG 03 MPEG Systems	|[Part 1/AMD2] Comments on CDAM2 (non-linear storyline)	|Emmanouil Potetsianakis (TNO), Emmanuel Thomas (TNO)|	
+|m57206	|135 - OnLine	|All|JVET	|[JVET] Early access to samples for low latency applications	|Alexandre Gabriel, Yonatan Shiferaw, Emmanouil Potetsianakis	(TNO)|
+|m57207	|135 - OnLine	|All|JVET	|[JVET] VDI binding for VVC SEI message	|Alexandre Gabriel, Yonatan Shiferaw, Emmanouil Potetsianakis	(TNO)|
+|m57454	|135 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[33][OMAF] Comments on OMAF DUI	|Alexandre Gabriel, Emmanouil Potetsianakis (TNO)|
+|m57457	|135 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[VDI] on VVC SEI code for VDI messages	|Alexandre Gabriel, Emmanouil Potetsianakis (TNO)|	
+|m57540	|135 - OnLine	|All|JVET|	[AHG 9] Early access to samples for low latency applications	|A. Gabriel, Y. Shieferaw, E. Potetsianakis	(TNO)|
+|m57541	|135 - OnLine	|All|JVET|	[AHG 9] VDI binding for VVC SEI message	|A. Gabriel, E. Potetsianakis (TNO), Y. Lim (Samsung)|	
+|m58083	|136 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[VDI] Partial output for parallel post-processing|	Emmanouil Potetsianakis, Alexandre Gabriel (TNO)|	
+|m58089	|136 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[VDI] General comments and clarifications|	Emmanouil Potetsianakis, Alexandre Gabriel	(TNO)|
+|m58133	|136 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[OMAF] Update of Advanced Tiling test vectors for OMAF 2nd Edition	|Emmanouil Potetsianakis	(TNO)|
+|m58336	|136 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[VDI] NL NB Ballot comments	|Emmanouil Potetsianakis	(TNO)|
+|m58876	|137 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[VDI] Comments and clarifications on SEI messages in VDI	|Alexandre Gabriel, Emmanouil Potetsianakis (TNO)	|
+|m58877	|137 - OnLine	|MPEG-I|WG 03 MPEG Systems	|[VDI] Comments and clarifications on Video Decoding Engine	|Alexandre Gabriel, Emmanouil Potetsianakis (TNO)|
+
+
 
 
 ---
