@@ -4,12 +4,74 @@ permalink: /tests/WAP/
 title: WAP Test jek title
 ---
 <!DOCTYPE html>
-<html>
+<html lang="nl">
 <head>
-    <title>WAP Test fake title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We Are Public Events Browser</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Welcome to WAP test</h1>
-    <!-- Your content here -->
+    <div class="container">
+        <header>
+            <h1>We Are Public Events</h1>
+            <p>Browse and filter events from wearepublic.nl</p>
+        </header>
+
+        <div class="controls">
+            <div class="filter-section">
+                <div class="filter-group">
+                    <label for="eventType">Event Type:</label>
+                    <select id="eventType">
+                        <option value="">All Types</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="location">Location:</label>
+                    <select id="location">
+                        <option value="">All Locations</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label for="dateFrom">From Date:</label>
+                    <input type="date" id="dateFrom">
+                </div>
+                
+                <div class="filter-group">
+                    <label for="dateTo">To Date:</label>
+                    <input type="date" id="dateTo">
+                </div>
+                
+                <div class="filter-group">
+                    <label for="sortBy">Sort By:</label>
+                    <select id="sortBy">
+                        <option value="date">Date (Ascending)</option>
+                        <option value="date-desc">Date (Descending)</option>
+                        <option value="date-added">Date Added (Oldest First)</option>
+                        <option value="date-added-desc">Date Added (Newest First)</option>
+                        <option value="title">Title (A-Z)</option>
+                        <option value="location">City</option>
+                        <option value="type">Event Type</option>
+                    </select>
+                </div>
+                
+                <button id="resetFilters" class="btn-secondary">Reset Filters</button>
+            </div>
+        </div>
+
+        <div class="stats">
+            <span id="eventCount">Loading events...</span>
+            <span id="loading" class="loading hidden">Loading...</span>
+        </div>
+
+        <div id="eventsList" class="events-grid">
+            <!-- Events will be loaded here -->
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
