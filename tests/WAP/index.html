@@ -1,77 +1,66 @@
----
-layout: page
-permalink: /tests/WAP/
-title: WAP Test jek title
----
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>We Are Public Events Browser</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Event Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .event {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .loading {
+            text-align: center;
+            font-size: 20px;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>We Are Public Events</h1>
-            <p>Browse and filter events from wearepublic.nl</p>
-        </header>
 
-        <div class="controls">
-            <div class="filter-section">
-                <div class="filter-group">
-                    <label for="eventType">Event Type:</label>
-                    <select id="eventType">
-                        <option value="">All Types</option>
-                    </select>
-                </div>
-                
-                <div class="filter-group">
-                    <label for="location">Location:</label>
-                    <select id="location">
-                        <option value="">All Locations</option>
-                    </select>
-                </div>
-                
-                <div class="filter-group">
-                    <label for="dateFrom">From Date:</label>
-                    <input type="date" id="dateFrom">
-                </div>
-                
-                <div class="filter-group">
-                    <label for="dateTo">To Date:</label>
-                    <input type="date" id="dateTo">
-                </div>
-                
-                <div class="filter-group">
-                    <label for="sortBy">Sort By:</label>
-                    <select id="sortBy">
-                        <option value="date">Date (Ascending)</option>
-                        <option value="date-desc">Date (Descending)</option>
-                        <option value="date-added">Date Added (Oldest First)</option>
-                        <option value="date-added-desc">Date Added (Newest First)</option>
-                        <option value="title">Title (A-Z)</option>
-                        <option value="location">City</option>
-                        <option value="type">Event Type</option>
-                    </select>
-                </div>
-                
-                <button id="resetFilters" class="btn-secondary">Reset Filters</button>
-            </div>
-        </div>
+    <h1>Event List</h1>
+    <div id="loading" class="loading">Loading events...</div>
+    <div id="events" class="grid"></div>
 
-        <div class="stats">
-            <span id="eventCount">Loading events...</span>
-            <span id="loading" class="loading hidden">Loading...</span>
-        </div>
+    <script>
+        function fetchEvents() {
+            const proxyUrl = 'https://cors-anywhere.herokuapp.com/'; // Example proxy URL
+            const apiUrl = 'https://api.example.com/events'; // Replace with your API endpoint
+            const loadingElement = document.getElementById('loading');
+            const eventsElement = document.getElementById('events');
 
-        <div id="eventsList" class="events-grid">
-            <!-- Events will be loaded here -->
-        </div>
+            loadingElement.style.display = 'block'; // Show loading state
 
-    </div>
+            fetch(proxyUrl + apiUrl)
+                .then(response => response.json())
+                .then(data => {
+                    loadingElement.style.display = 'none'; // Hide loading state
+                    data.events.forEach(event => {
+                        const eventDiv = document.createElement('div');
+                        eventDiv.className = 'event';
+                        eventDiv.innerHTML = `<h2>${event.title}</h2><p>${event.description}</p>`;
+                        eventsElement.appendChild(eventDiv);
+                    });
+                })
+                .catch(error => {
+                    loadingElement.innerText = 'Failed to load events.';
+                    console.error('Error fetching events:', error);
+                });
+        }
 
-    <script src="script.js"></script>
+        window.onload = fetchEvents; // Fetch events on load
+    </script>
+
 </body>
 </html>
